@@ -1,0 +1,1 @@
+global.alive = 0;

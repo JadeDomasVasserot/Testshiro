@@ -1,0 +1,1 @@
+draw_sprite_ext(spoint1,1,x,y-20,0.3,0.3,0,c_white,1);
