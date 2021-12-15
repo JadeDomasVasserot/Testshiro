@@ -1,0 +1,86 @@
+.bg-light 
+{
+    background-color:#ffffff!important;
+}
+
+.navbar-light .navbar-nav .nav-link
+{
+    color: black;
+    font-family:'Quicksand', sans-serif;
+}
+
+header .row
+{
+    background-image: url(https://zupimages.net/up/20/39/fpar.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 50vh;
+    align-items: center;
+}
+
+header h1
+{
+    color: white;
+    text-align: center;
+    font-size: 8rem;
+    font-family: 'Ranchers', cursive;
+}
+
+header p
+{
+    color: white;
+    text-align: center;
+    font-size: 2rem;
+    font-family:'Quicksand', sans-serif;
+}
+
+h1
+{
+    font-family: 'Ranchers', cursive;
+}
+
+p
+{
+    font-family:'Quicksand', sans-serif;
+}
+
+.top
+{
+    text-align: center;
+}
+.top
+{
+    font-family:'Quicksand', sans-serif;
+}
+.contact
+{
+    font-family:'Quicksand', sans-serif;
+}
+
+footer
+{
+    background-color: #6C3247;
+    color: white;
+}
+footer h2
+{
+    font-family: 'Ranchers', cursive;
+    font-size: xx-large
+}
+footer p
+{
+    font-family:'Quicksand', sans-serif;
+}
+
+footer a
+{
+    color:white;
+    font-size: 2rem;
+    transition: all .2s ease-in-out;
+    padding: .5rem;
+}
+footer a:hover
+{
+    color: #371828;
+    text-decoration: none;
+}
